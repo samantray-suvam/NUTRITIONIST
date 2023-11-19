@@ -36,11 +36,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="sdgfhcsahgfnausksahdufhsnugsdfsd
-asvgvsgsd
-dvhsd
-dthbshdhbrdfyyj fjgfj
-vj ghhj"
+                    android:text="Whole grains (quinoa, brown rice, whole wheat bread, oats)\n
+Fruits (berries, apples, bananas, citrus fruits)\n
+Vegetables (leafy greens, broccoli, carrots, sweet potatoes)\n
+Legumes (beans, lentils, chickpeas)"
                     android:textSize="19dp"/>
             </LinearLayout>
 
@@ -65,12 +64,12 @@ vj ghhj"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Carbohydrates:/n
+                    android:text="Carbohydrates:\n
 
-Whole grains (rice, roti, oats, daliya)/n
-Fruits (papaya, berries, bananas, apples)/n
-Vegetables (carrots, broccoli, spinach)/n
-Legumes (beans, lentils)/n"
+Whole grains (rice, roti, oats, daliya)\n
+Fruits (papaya, berries, bananas, apples)\n
+Vegetables (carrots, broccoli, spinach)\n
+Legumes (beans, lentils)"
                     android:textSize="19dp"/>
             </LinearLayout>
 
@@ -93,11 +92,10 @@ Legumes (beans, lentils)/n"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="sdgfhcsahgfnausksahdufhsnugsdfsd
-asvgvsgsd
-dvhsd
-dthbshdhbrdfyyj fjgfj
-vj ghhj"
+                    android:text="Healthy oils (olive oil, avocado oil, coconut oil)\n
+Fatty fish (salmon, mackerel, sardines)\n
+Nuts and seeds (almonds, walnuts, chia seeds, flaxseeds)\n
+Nut butters (peanut butter, almond butter)"
                     android:textSize="19dp"/>
             </LinearLayout>
         </LinearLayout>
