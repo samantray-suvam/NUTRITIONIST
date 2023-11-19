@@ -36,11 +36,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Carbohydrates:/n
+                    android:text="Carbohydrates\/n
 
-Whole grains (brown rice, whole wheat bread, oats)/n
-Fruits (papaya, berries, bananas)/n
-Vegetables (carrots, broccoli, spinach)/n
+Whole grains (brown rice, whole wheat bread, oats)\n
+Fruits (papaya, berries, bananas)\n
+Vegetables (carrots, broccoli, spinach)\n
 Legumes (beans, lentils)"
                     android:textSize="19dp"/>
             </LinearLayout>
@@ -66,9 +66,8 @@ Legumes (beans, lentils)"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Proteins:/n
-Eggs/n
-Dairy products (milk, yogurt, paneer)/n
+                    android:text="Eggs\n
+Dairy products (milk, yogurt, paneer)\n
 Plant-based sources (tofu, beans, lentils, nuts, seeds)"
                     android:textSize="19dp"/>
             </LinearLayout>
@@ -92,9 +91,8 @@ Plant-based sources (tofu, beans, lentils, nuts, seeds)"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Fats:/n
-Healthy oils (olive oil, canola oil)/n
-Nuts and seeds (almonds, walnuts, chia seeds)/n
+                    android:text="Healthy oils (olive oil, canola oil)\n
+Nuts and seeds (almonds, walnuts, chia seeds)\n
 Dairy products (milk, yogurt, paneer)"
                     android:textSize="19dp"/>
             </LinearLayout>
