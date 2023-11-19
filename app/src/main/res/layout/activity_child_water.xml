@@ -20,7 +20,7 @@
         android:layout_marginTop="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ages 3-4: About 4-5 cups/n  Ages 5-8: About 5-7 cups/n   Ages 9-12: About 7-8 cups"
+        android:text="Ages 3-4: About 4-5 cups\n  Ages 5-8: About 5-7 cups\n   Ages 9-12: About 7-8 cups"
         android:textSize="19sp"></TextView>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
