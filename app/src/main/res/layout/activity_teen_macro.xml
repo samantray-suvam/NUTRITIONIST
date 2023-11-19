@@ -36,11 +36,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Carbohydrates:/n
-
-Whole grains (rice, roti, oats, daliya)/n
-Fruits (papaya, berries, bananas, apples)/n
-Vegetables (carrots, broccoli, spinach)/n
+                    android:text="Whole grains (rice, roti, oats, daliya)\n
+Fruits (papaya, berries, bananas, apples)\n
+Vegetables (carrots, broccoli, spinach)\n
 Legumes (beans, lentils)"
                     android:textSize="19dp"/>
             </LinearLayout>
@@ -66,12 +64,10 @@ Legumes (beans, lentils)"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Proteins:/n
-
-Lean meats (chicken, turkey)/n
-Fish and seafood (salmon, tuna)/n
-Eggs/n
-Dairy products (milk, yogurt, cheese)/n
+                    android:text="Lean meats (chicken, turkey)\n
+Fish and seafood (salmon, tuna)\n
+Eggs\n
+Dairy products (milk, yogurt, cheese)\n
 Plant-based sources (tofu, tempeh, beans, lentils, nuts, seeds)"
                     android:textSize="19dp"/>
             </LinearLayout>
@@ -95,11 +91,9 @@ Plant-based sources (tofu, tempeh, beans, lentils, nuts, seeds)"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Fats:/n
-
-Healthy oils (olive oil, avocado oil, canola oil)/n
-Fatty fish (salmon, mackerel, sardines)/n
-Nuts and seeds (almonds, walnuts, chia seeds, flaxseeds)/n
+                    android:text="Healthy oils (olive oil, avocado oil, canola oil)\n
+Fatty fish (salmon, mackerel, sardines)\n
+Nuts and seeds (almonds, walnuts, chia seeds, flaxseeds)\n
 Dairy products (in moderation)"
                     android:textSize="19dp"/>
             </LinearLayout>
