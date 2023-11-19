@@ -64,9 +64,7 @@ Legumes (beans, lentils, chickpeas)"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Carbohydrates:\n
-
-Whole grains (rice, roti, oats, daliya)\n
+                    android:text="Whole grains (rice, roti, oats, daliya)\n
 Fruits (papaya, berries, bananas, apples)\n
 Vegetables (carrots, broccoli, spinach)\n
 Legumes (beans, lentils)"
