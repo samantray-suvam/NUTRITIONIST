@@ -21,7 +21,8 @@
         android:layout_marginTop="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="About 3.7 liters for men/n                                 About 2.7 liters for women"
+        android:text="About 3.7 liters for men\n
+        About 2.7 liters for women"
         android:textSize="19sp"></TextView>
 
   </androidx.appcompat.widget.LinearLayoutCompat>
