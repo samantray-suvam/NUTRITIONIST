@@ -36,17 +36,17 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Vitamins:/n
+                    android:text="Vitamins:\n
 
-Vitamin A:/n
-Found in sweet potatoes, carrots, spinach, kale, mangoes, apricots, and dairy products./n
-Vitamin C:/n
-Found in citrus fruits (oranges, lemons), strawberries, kiwi, bell peppers, tomatoes, and broccoli./n
-Vitamin D:/n
-Found in fatty fish (salmon, tuna), fortified dairy products, and exposure to sunlight./n
-Vitamin E:/n
-Found in nuts (almonds, sunflower seeds), spinach, broccoli, and vegetable oils./n
-Vitamin K:/n
+Vitamin A:\n
+Found in sweet potatoes, carrots, spinach, kale, mangoes, apricots, and dairy products.\n
+Vitamin C:\n
+Found in citrus fruits (oranges, lemons), strawberries, kiwi, bell peppers, tomatoes, and broccoli.\n
+Vitamin D:\n
+Found in fatty fish (salmon, tuna), fortified dairy products, and exposure to sunlight.\n
+Vitamin E:\n
+Found in nuts (almonds, sunflower seeds), spinach, broccoli, and vegetable oils.\n
+Vitamin K:\n
 Found in leafy green vegetables (kale, spinach, broccoli), and some vegetable oils."
                     android:textSize="19dp"/>
             </LinearLayout>
@@ -72,17 +72,17 @@ Found in leafy green vegetables (kale, spinach, broccoli), and some vegetable oi
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Minerals:/n
+                    android:text="Minerals:\n
 
-Calcium:/n
-Found in dairy products (milk, yogurt, cheese), fortified plant-based milk, tofu, and leafy green vegetables.
-Iron:/n
-Found in lean meats, poultry, fish, beans, lentils, fortified cereals, and spinach./n
-Zinc:/n
-Found in meat, dairy products, nuts, seeds, and legumes./n
-Magnesium:/n
-Found in whole grains, nuts, seeds, leafy green vegetables, and legumes./n
-Iodine:/n
+Calcium:\n
+Found in dairy products (milk, yogurt, cheese), fortified plant-based milk, tofu, and leafy green vegetables.\n
+Iron:\n
+Found in lean meats, poultry, fish, beans, lentils, fortified cereals, and spinach.\n
+Zinc:\n
+Found in meat, dairy products, nuts, seeds, and legumes.\n
+Magnesium:\n
+Found in whole grains, nuts, seeds, leafy green vegetables, and legumes.\n
+Iodine:\n
 Found in iodized salt, seafood, dairy products, and seaweed."
                     android:textSize="19dp"/>
             </LinearLayout>
