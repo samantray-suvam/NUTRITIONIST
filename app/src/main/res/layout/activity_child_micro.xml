@@ -36,15 +36,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Vitamin A:/n
+                android:text="Vitamin A:\n
 
 Plays a crucial role in maintaining healthy skin, vision, and immune function.
-Sources: Carrots, sweet potatoes, spinach, mangoes, apricots./n
-Vitamin C:/n
+Sources: Carrots, sweet potatoes, spinach, mangoes, apricots.\n
+Vitamin C:\n
 
 Important for the growth and repair of tissues, as well as immune function.
-Sources: Citrus fruits (oranges, lemons), strawberries, bell peppers, tomatoes./n
-Vitamin D:/n
+Sources: Citrus fruits (oranges, lemons), strawberries, bell peppers, tomatoes.\n
+Vitamin D:\n
 
 Essential for bone health and the absorption of calcium.
 Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlight."
@@ -72,39 +72,39 @@ Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlig
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Calcium:/n
+                android:text="Calcium:\n
 
 Vital for the development and maintenance of strong bones and teeth.
-Sources: Dairy products (milk, cheese, yogurt), leafy green vegetables, fortified plant-based milk./n
-Iron:/n
+Sources: Dairy products (milk, cheese, yogurt), leafy green vegetables, fortified plant-based milk.\n
+Iron:\n
 
 Necessary for the formation of hemoglobin and preventing iron-deficiency anemia.
-Sources: Lean meats, poultry, fish, beans, lentils, fortified cereals./n
-Zinc:/n
+Sources: Lean meats, poultry, fish, beans, lentils, fortified cereals.\n
+Zinc:\n
 
 Supports growth, immune function, and wound healing.
-Sources: Meat, dairy products, nuts, seeds, whole grains./n
-Folate (Vitamin B9):/n
+Sources: Meat, dairy products, nuts, seeds, whole grains.\n
+Folate (Vitamin B9):\n
 
 Important for DNA synthesis and cell growth.
-Sources: Leafy green vegetables, legumes, fortified cereals./n
-Vitamin B6:/n
+Sources: Leafy green vegetables, legumes, fortified cereals.\n
+Vitamin B6:\n
 
 Essential for brain development and function.
-Sources: Meat, fish, poultry, bananas, whole grains./n
-Vitamin B12:/n
+Sources: Meat, fish, poultry, bananas, whole grains.\n
+Vitamin B12:\n
 
 Crucial for nerve function and the production of red blood cells.
-Sources: Meat, fish, dairy products, eggs./n
-Iodine:/n
+Sources: Meat, fish, dairy products, eggs.\n
+Iodine:\n
 
 Necessary for proper thyroid function and the production of thyroid hormones.
-Sources: Iodized salt, seafood, dairy products./n
-Magnesium:/n
+Sources: Iodized salt, seafood, dairy products.\n
+Magnesium:\n
 
 Important for muscle and nerve function, as well as bone health.
-Sources: Nuts, seeds, whole grains, leafy green vegetables./n
-Omega-3 Fatty Acids:/n
+Sources: Nuts, seeds, whole grains, leafy green vegetables.\n
+Omega-3 Fatty Acids:\n
 
 Support brain development and may have anti-inflammatory effects.
 Sources: Fatty fish (salmon, mackerel), flaxseeds, chia seeds, walnuts."
