@@ -29,6 +29,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="CARBOHYDRATE"
+                    android:background="@color/carb"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -57,6 +58,7 @@ Legumes (beans, lentils, chickpeas)"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="PROTEIN"
+                    android:background="@color/pro"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -67,7 +69,7 @@ Legumes (beans, lentils, chickpeas)"
                     android:text="Whole grains (rice, roti, oats, daliya)\n
 Fruits (papaya, berries, bananas, apples)\n
 Vegetables (carrots, broccoli, spinach)\n
-Legumes (beans, lentils)"
+Legumes (beans, lentils)\n"
                     android:textSize="19dp"/>
             </LinearLayout>
 
@@ -83,6 +85,7 @@ Legumes (beans, lentils)"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="FAT"
+                    android:background="@color/fat"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView

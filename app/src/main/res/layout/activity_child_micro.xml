@@ -29,6 +29,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:text="VITAMINS"
+                android:background="@color/vitamin"
                 android:textSize="32sp"
                 android:textStyle="bold" />
             <TextView
@@ -36,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Vitamin A:\n
+                android:text="1.Vitamin A:\n
 
 Plays a crucial role in maintaining healthy skin, vision, and immune function.
 Sources: Carrots, sweet potatoes, spinach, mangoes, apricots.\n
@@ -65,6 +66,7 @@ Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlig
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:text="MINERALS"
+                android:background="@color/mineral"
                 android:textSize="32sp"
                 android:textStyle="bold" />
             <TextView

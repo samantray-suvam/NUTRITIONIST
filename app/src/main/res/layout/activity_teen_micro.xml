@@ -29,6 +29,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="VITAMINS"
+                    android:background="@color/vitamin"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -36,7 +37,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Vitamins:\n
+                    android:text="Vitamins:/n
 
 Vitamin A:\n
 Found in sweet potatoes, carrots, spinach, kale, mangoes, apricots, and dairy products.\n
@@ -65,6 +66,7 @@ Found in leafy green vegetables (kale, spinach, broccoli), and some vegetable oi
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="MINERALS"
+                    android:background="@color/mineral"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -72,7 +74,7 @@ Found in leafy green vegetables (kale, spinach, broccoli), and some vegetable oi
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Minerals:\n
+                    android:text="Minerals:/n
 
 Calcium:\n
 Found in dairy products (milk, yogurt, cheese), fortified plant-based milk, tofu, and leafy green vegetables.\n

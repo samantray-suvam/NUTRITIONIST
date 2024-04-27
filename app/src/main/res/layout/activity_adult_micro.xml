@@ -30,6 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:text="VITAMINS"
+            android:background="@color/vitamin"
             android:textSize="32sp"
             android:textStyle="bold" />
         <TextView
@@ -43,11 +44,11 @@ Plays a crucial role in maintaining healthy skin, vision, and immune function.
 Sources: Carrots, sweet potatoes, spinach, mangoes, apricots.\n
 Vitamin C:\n
 
-Important for the growth and repair of tissues, as well as immune function.
+Important for the growth and repair of tissues, as well as immune function.\n
 Sources: Citrus fruits (oranges, lemons), strawberries, bell peppers, tomatoes.\n
 Vitamin D:\n
 
-Essential for bone health and the absorption of calcium.
+Essential for bone health and the absorption of calcium.\n
 Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlight."
             android:textSize="19dp"/>
       </LinearLayout>
@@ -66,6 +67,7 @@ Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlig
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:text="MINERALS"
+            android:background="@color/mineral"
             android:textSize="32sp"
             android:textStyle="bold" />
         <TextView
@@ -75,39 +77,39 @@ Sources: Fortified dairy products, fatty fish (salmon, tuna), exposure to sunlig
             android:layout_weight="1"
             android:text="Calcium:\n
 
-Vital for the development and maintenance of strong bones and teeth.
+Vital for the development and maintenance of strong bones and teeth.\n
 Sources: Dairy products (milk, cheese, yogurt), leafy green vegetables, fortified plant-based milk.\n
 Iron:\n
 
-Necessary for the formation of hemoglobin and preventing iron-deficiency anemia.
+Necessary for the formation of hemoglobin and preventing iron-deficiency anemia.\n
 Sources: Lean meats, poultry, fish, beans, lentils, fortified cereals.\n
 Zinc:\n
 
-Supports growth, immune function, and wound healing.
+Supports growth, immune function, and wound healing.\n
 Sources: Meat, dairy products, nuts, seeds, whole grains.\n
 Folate (Vitamin B9):\n
 
-Important for DNA synthesis and cell growth.
+Important for DNA synthesis and cell growth.\n
 Sources: Leafy green vegetables, legumes, fortified cereals.\n
 Vitamin B6:\n
 
-Essential for brain development and function.
+Essential for brain development and function.\n
 Sources: Meat, fish, poultry, bananas, whole grains.\n
 Vitamin B12:\n
 
-Crucial for nerve function and the production of red blood cells.
+Crucial for nerve function and the production of red blood cells.\n
 Sources: Meat, fish, dairy products, eggs.\n
 Iodine:\n
 
-Necessary for proper thyroid function and the production of thyroid hormones.
+Necessary for proper thyroid function and the production of thyroid hormones.\n
 Sources: Iodized salt, seafood, dairy products.\n
 Magnesium:\n
 
-Important for muscle and nerve function, as well as bone health.
+Important for muscle and nerve function, as well as bone health.\n
 Sources: Nuts, seeds, whole grains, leafy green vegetables.\n
 Omega-3 Fatty Acids:\n
 
-Support brain development and may have anti-inflammatory effects.
+Support brain development and may have anti-inflammatory effects\n
 Sources: Fatty fish (salmon, mackerel), flaxseeds, chia seeds, walnuts."
             android:textSize="19dp"/>
       </LinearLayout>

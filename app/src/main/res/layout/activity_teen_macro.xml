@@ -29,6 +29,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="CARBOHYDRATE"
+                    android:background="@color/carb"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -57,6 +58,7 @@ Legumes (beans, lentils)"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="PROTEIN"
+                    android:background="@color/pro"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView
@@ -84,6 +86,7 @@ Plant-based sources (tofu, tempeh, beans, lentils, nuts, seeds)"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="FAT"
+                    android:background="@color/fat"
                     android:textSize="32sp"
                     android:textStyle="bold" />
                 <TextView

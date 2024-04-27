@@ -3,4 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="walter">#487BB1</color>
+    <color name="vitamin">#ECA3A3</color>
+    <color name="mineral">#81DEEC</color>
+    <color name="carb">#EDDFBB</color>
+    <color name="pro">#C3DC99</color>
+    <color name="fat">#EFEA72</color>
 </resources>

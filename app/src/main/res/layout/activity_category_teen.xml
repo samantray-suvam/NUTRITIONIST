@@ -47,6 +47,7 @@
                     android:onClick="clk2"
                     android:background="@drawable/teen_macro"
                     android:text="MACRONUTRIENTS"
+                    android:textColor="@color/black"
                     android:textStyle="bold"/>
             </LinearLayout>
 

@@ -29,7 +29,8 @@
                     android:layout_weight="1"
                     android:onClick="fun1"
                     android:background="@drawable/ben_1"
-                    android:text="CHILDREN"/>
+                    android:text="CHILDREN"
+                    android:textColor="@color/white"/>
             </LinearLayout>
 
             <LinearLayout
@@ -45,7 +46,8 @@
                     android:layout_weight="1"
                     android:onClick="fun2"
                     android:background="@drawable/grylls_1"
-                    android:text="TEENS"/>
+                    android:text="TEENS"
+                    android:textColor="@color/white"/>
             </LinearLayout>
 
             <LinearLayout
@@ -61,7 +63,8 @@
                     android:layout_weight="1"
                     android:background="@drawable/yagami"
                     android:onClick="fun3"
-                    android:text="ADULTS" />
+                    android:text="ADULTS"
+                    android:textColor="@color/white"/>
             </LinearLayout>
 
         </LinearLayout>
